@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- cmd atau ctrl + / -->
+
+# 👋 Hello
+
+Hello, my name is 'Tesa'
+
+I'm studying at STIE GICI Business School, I'm taking Management major, class  of 2020
